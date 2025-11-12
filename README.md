@@ -5,8 +5,51 @@
 ---
 **HomePage**
 <img width="940" height="511" alt="image" src="https://github.com/user-attachments/assets/f1dced1f-c95e-47b9-954d-62d16bf559ce" />
+
 **AboutPage**
 <img width="635" height="519" alt="image" src="https://github.com/user-attachments/assets/5e800b20-44f6-4c5e-b93b-b7a59ff9adcc" />
+
+**StorePage**
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/9f896a85-e95a-4172-bd33-f01050433337" />
+
+**SearchSection**
+<img width="940" height="701" alt="image" src="https://github.com/user-attachments/assets/64ca1811-ff4e-414c-bdc1-54922ae7a4d1" />
+
+**EventsSection**
+<img width="940" height="366" alt="image" src="https://github.com/user-attachments/assets/b27643b7-0ec0-4e2f-b4b4-323c95d5b257" />
+
+**EventsPage**
+<img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/a85814e8-f50b-4d53-826c-b3603b7fa62d" />
+
+**EventsRegistrationForm**
+<img width="940" height="348" alt="image" src="https://github.com/user-attachments/assets/9d441bcf-8b89-431e-b6a2-1bde4824cca4" />
+
+**BlogPage**
+<img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/0e975290-d94d-4170-87f1-1fa56bcba097" />
+
+<img width="940" height="476" alt="image" src="https://github.com/user-attachments/assets/746af15f-ba70-4f08-ad75-2a3dcda8c5b8" />
+
+<img width="940" height="475" alt="image" src="https://github.com/user-attachments/assets/21dfb10a-fad7-4a2d-a96c-2fe9a2456a60" />
+
+**Add a Blog**
+<img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/9a0406dd-d99e-4507-ba7c-e0c5ca219e3e" />
+
+**Contact Us**
+<img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/dad4dc89-7601-4fe3-ab54-49b695841303" />
+
+**Login Page**
+<img width="940" height="386" alt="image" src="https://github.com/user-attachments/assets/1fdcff8d-7032-4954-9901-cb8c36f6ce23" />
+
+**User registration**
+<img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/515350c1-e815-4337-91e3-c7b315357c42" />
+
+**Forgot Password**
+<img width="940" height="336" alt="image" src="https://github.com/user-attachments/assets/9499d4aa-9123-4303-97d2-e128c98c4c8b" />
+
+**Checkout Page**
+<img width="940" height="381" alt="image" src="https://github.com/user-attachments/assets/0c891fa5-0d5a-4b84-9ba3-fb6bfd977ca5" />
+
+
 
 ## 🚀 Features
 
