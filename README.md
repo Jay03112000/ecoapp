@@ -3,6 +3,10 @@
 **ECOearth** is a fully functional e-commerce website designed to promote eco-friendly and sustainable products. Developed with the Django framework, this project features a robust shop system, user accounts, order management, contact form, and integrated blog — all styled with modern responsive front-end design.
 
 ---
+**HomePage**
+<img width="940" height="511" alt="image" src="https://github.com/user-attachments/assets/f1dced1f-c95e-47b9-954d-62d16bf559ce" />
+**AboutPage**
+<img width="635" height="519" alt="image" src="https://github.com/user-attachments/assets/5e800b20-44f6-4c5e-b93b-b7a59ff9adcc" />
 
 ## 🚀 Features
 
